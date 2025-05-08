@@ -1,6 +1,6 @@
-# recipes
+# Food Recipes
 
-Recipes for bread or whatever.
+Recipes for bread or whatever else I can share.
 
 ## Overview
 
